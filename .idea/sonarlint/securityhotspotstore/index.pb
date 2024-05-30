@@ -21,3 +21,8 @@ t
 Dsrc/main/java/com/colak/springjpatutorial/service/DeviceService.java,6\c\6cfd2470f56c26e62047bdc931ba336f42e2938d
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+…
+Usrc/test/java/com/colak/springjpatutorial/repository/AuthorFormulaRepositoryTest.java,c\9\c9a09ce6c2a02b1636bf7e5ae87ac05b315d4676
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
